@@ -18,4 +18,4 @@ trying.java is User file.
 
 Run trying.java in 2 cmd prompt at same time for two users to interact
 
-Running trying.java in many cmd Prompt for many users
+Run trying.java in many cmd Prompt for many users
